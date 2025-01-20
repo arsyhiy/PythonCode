@@ -1,2 +1,2 @@
 # PythonCode
-mine collection of python code
+my collection of python code
