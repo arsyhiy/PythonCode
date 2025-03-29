@@ -14,3 +14,4 @@ print("\nNumber of palidromes found ={}\n".format(len(pali_list)))
 
 # print in list format with no quotes ro commas:
 print(*pali_list, sep='\n')
+
